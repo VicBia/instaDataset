@@ -5,7 +5,7 @@ Este projeto visa analisar dados de influenciadores do Instagram e aplicar técn
 
 # Instalação
 1. Clone o repositório:
-   git clone [usuário github/ projeto](https://github.com/VicBia/instaDataset.git)
+   git clone https://github.com/VicBia/instaDataset.git
 
 2. Instale as bibliotecas possíveis:
 pip install numpy pandas matplotlib seaborn scikit-learn
