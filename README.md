@@ -10,7 +10,7 @@ Este projeto visa analisar dados de influenciadores do Instagram e aplicar técn
 2. Instale as bibliotecas possíveis:
 pip install numpy pandas matplotlib seaborn scikit-learn
 
-#Como Executar
+# Como Executar
 1. Importe as bibliotecas:
 import numpy as np
 import pandas as pd
@@ -28,15 +28,15 @@ insta_df.head()
 5.Divida os dados em treino e teste e treine o modelo de regressão linear.
 6.Verifique os resultados e a precisão do modelo.
 
-#Estrutura dos Arquivos
+# Estrutura dos Arquivos
 top_insta_influencers_data.csv: Conjunto de dados de influenciadores do Instagram.
 main_script.py: Script contendo o código principal para análise.
 README.md: Documentação do projeto.
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 Python
 Bibliotecas : NumPy, pandas, matplotlib, seaborn,scikit-learn
 
-#Autores e Colaboradores
+# Autores e Colaboradores
 Anna Miranda e Victoria Reis - Desenvolvimento do código e análise de dados.
 
