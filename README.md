@@ -19,14 +19,14 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 import seaborn as sns
-2.Carregue o arquivo CSV e visualize os dados:
+2. Carregue o arquivo CSV e visualize os dados:
 url = '/content/top_insta_influencers_data.csv'
 insta_df = pd.read_csv(url)
 insta_df.head()
-3.Execute o processo de limpeza, normalização e remoção de outliers conforme código fornecido.
-4.Realize a análise e visualize os gráficos de dispersão.
-5.Divida os dados em treino e teste e treine o modelo de regressão linear.
-6.Verifique os resultados e a precisão do modelo.
+3. Execute o processo de limpeza, normalização e remoção de outliers conforme código fornecido.
+4. Realize a análise e visualize os gráficos de dispersão.
+5. Divida os dados em treino e teste e treine o modelo de regressão linear.
+6. Verifique os resultados e a precisão do modelo.
 
 # Estrutura dos Arquivos
 top_insta_influencers_data.csv: Conjunto de dados de influenciadores do Instagram.
