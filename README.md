@@ -1,4 +1,4 @@
-## Análise de Influenciadores do Instagram com Regressão Linear
+# Análise de Influenciadores do Instagram com Regressão Linear
 
 # Descrição do Projeto
 Este projeto visa analisar dados de influenciadores do Instagram e aplicar técnicas de regressão linear para prever a taxa de engajamento dos perfis. O processo inclui desde a limpeza e normalização dos dados até a visualização e avaliação do modelo preditivo. 
