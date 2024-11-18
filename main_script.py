@@ -10,7 +10,7 @@ import seaborn as sns
 sns.set(style='whitegrid')
 
 # Importando df
-url = '/content/top_insta_influencers_data.csv'
+url = 'content/top_insta_influencers_data.csv'
 insta_df = pd.read_csv(url)
 insta_df.head()
 
