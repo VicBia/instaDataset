@@ -29,9 +29,9 @@ insta_df.head()
 6. Verifique os resultados e a precisão do modelo.
 
 # Estrutura dos Arquivos
-top_insta_influencers_data.csv: Conjunto de dados de influenciadores do Instagram.
-main_script.py: Script contendo o código principal para análise.
-README.md: Documentação do projeto.
+- top_insta_influencers_data.csv: Conjunto de dados de influenciadores do Instagram.
+- main_script.py: Script contendo o código principal para análise.
+- README.md: Documentação do projeto.
 
 # Tecnologias Utilizadas
 Python
